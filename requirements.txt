@@ -1,0 +1,5 @@
+aiocron
+discord.py
+pycoingecko
+tqdm
+tweepy
